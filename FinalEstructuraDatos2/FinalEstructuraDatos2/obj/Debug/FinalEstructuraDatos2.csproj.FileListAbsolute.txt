@@ -1,0 +1,8 @@
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\bin\Debug\FinalEstructuraDatos2.exe.config
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\bin\Debug\FinalEstructuraDatos2.exe
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\bin\Debug\FinalEstructuraDatos2.pdb
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\obj\Debug\FinalEstructuraDatos2.csproj.AssemblyReference.cache
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\obj\Debug\FinalEstructuraDatos2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\obj\Debug\FinalEstructuraDatos2.csproj.CoreCompileInputs.cache
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\obj\Debug\FinalEstructuraDatos2.exe
+C:\Users\juan1\source\repos\FinalEstructuraDatos2\FinalEstructuraDatos2\obj\Debug\FinalEstructuraDatos2.pdb

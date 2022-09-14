@@ -1,0 +1,8 @@
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\bin\Debug\VendedoresPOO1.exe.config
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\bin\Debug\VendedoresPOO1.exe
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\bin\Debug\VendedoresPOO1.pdb
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\obj\Debug\VendedoresPOO1.csproj.AssemblyReference.cache
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\obj\Debug\VendedoresPOO1.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\obj\Debug\VendedoresPOO1.csproj.CoreCompileInputs.cache
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\obj\Debug\VendedoresPOO1.exe
+C:\Users\juan1\source\repos\VendedoresPOO1\VendedoresPOO1\obj\Debug\VendedoresPOO1.pdb
